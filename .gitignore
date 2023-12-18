@@ -1,0 +1,9 @@
+# ignore binary files
+*.exe
+*.o
+
+# ignore hidden files
+.*
+
+# don't ignore gitignore
+!.gitignore
